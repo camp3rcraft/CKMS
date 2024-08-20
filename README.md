@@ -1,0 +1,2 @@
+# CKMS
+Pirate Windows license
