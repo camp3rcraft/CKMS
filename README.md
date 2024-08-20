@@ -1,2 +1,2 @@
-# CKMS
+# CKMS Activator
 Pirate Windows license
