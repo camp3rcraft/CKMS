@@ -6,9 +6,9 @@ Mini util for crack license for your Windows
 
 ## For download click on "Code -> Download ZIP"
 
-Launch the "main.bat" file in the same folder
-
-Required with administrator rights.
+## ⚠️ATTENTION! ORDINARY DRAGING A FOLDER DOES NOT WORK, REMOVE FOLLOWING THE INSTRUCTIONS! ! !
+1. Extract the archive (context menu > Extract to...)
+2. Go to the extracted folder and run the "main.bat" file as administrator
 
 ## What editions of Windows are there?
 - Home
