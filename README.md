@@ -2,11 +2,20 @@
 # CKMS Activator
 Mini util for crack license for your Windows
 
-## For download click on "Code -> Download ZIP"
+## How to use
 
-Launch the "main.bat" file in the same folder
+Launch the "start.bat" file in the same folder \
+Required with administrator rights
 
-Required with administrator rights.
+Or, for quick install, run this in the terminal:
+
+```bat
+@echo off
+curl -L "https://github.com/camp3rcraft/CKMS-Activator/archive/refs/heads/main.zip" -o "%TEMP%\ckms.zip"
+tar -xf "%TEMP%\ckms.zip" -C "%TEMP%"
+cd "%TEMP%\CKMS-Activator-main"
+start.bat
+```
 
 ## What editions of Windows are there?
 - Home
