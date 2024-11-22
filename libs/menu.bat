@@ -14,7 +14,7 @@ echo 1. Windows Home Edition
 echo 2. Windows Pro Edition
 echo 3. Windows Education Edition
 echo 4. Delete key
-echo 5. Check changlelog
+echo 5. Check changelog
 echo ㅤ
 
 set /p choice="Enter number of action: "
