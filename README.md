@@ -1,6 +1,12 @@
 ![Banner](https://github.com/user-attachments/assets/73b66559-2175-4726-b4ba-4cb91bcbc4a1)
 # CKMS Activator
-Mini util for crack license for your Windows
+Mini util that cracks license of your Windows
+
+## Features:
+- Windows 10 (Home, Pro, Education) support
+- Windows 11 (Home, Pro, Education) support
+- Removing an already installed activation key
+- View changelog
 
 ## How to use
 
@@ -14,18 +20,6 @@ Or, for quick install, run this in the terminal:
 curl -L "https://github.com/camp3rcraft/CKMS-Activator/archive/refs/heads/main.zip" -o "%TEMP%\ckms.zip"
 tar -xf "%TEMP%\ckms.zip" -C "%TEMP%"
 cd "%TEMP%\CKMS-Activator-main"
-start.bat
+runas /user:Administrator "%CD%\start.bat"
 ```
 
-## What editions of Windows are there?
-- Home
-- Pro
-- Education
-
-(Works with Windows 10 & Windows 11)
-
-## Add. functional:
-- Removing an already installed activation key
-- View changelog
-
-**Last update:** 08/21/2024
